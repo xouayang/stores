@@ -1,0 +1,18 @@
+.logo__image{
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
+}
+.Shoes__Store{
+  color: crimson;
+}
+.heading{
+  transition:all 0.3s ease-in-out;
+  cursor: pointer;
+  width:100px
+}
+.heading:hover{
+  color: crimson;
+}
+
+
